@@ -1,5 +1,7 @@
 <!-- ## Heeey 👋 -->
 
+![The Last Supper](./assets/last-supper.png)
+
 <!--
 ```
 ┻┳|
